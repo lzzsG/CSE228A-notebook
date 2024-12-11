@@ -1,0 +1,21 @@
+:root {
+    --vp-layout-max-width: 1580px;
+    /* --vp-sidebar-width: 270px; */
+}
+
+.dark {
+    --vp-c-text-1: rgba(255, 255, 255, 0.85);
+    --vp-c-text-2: rgba(255, 255, 255, 0.7);
+    --vp-c-text-3: rgba(255, 255, 255, 0.5);
+}
+
+.dark {
+    --vp-c-border: #222222;
+    --vp-c-divider: #444444;
+    --vp-c-gutter: #222222;
+}
+
+.dark {
+    --vp-c-bg: #000000;
+    --vp-c-bg-alt: #252525;
+}
