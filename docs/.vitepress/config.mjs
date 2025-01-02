@@ -17,7 +17,7 @@ export default defineConfig({
     },
     nav: [
       { text: 'Home', link: 'https://lzzs.fun' },
-      { text: 'Blog', link: 'https://lzzs.fun/blog' },
+      { text: 'Notes', link: 'https://lzzs.fun/Notebooks' },
       // {
       //   text: 'Dropdown Menu',
       //   items: [
