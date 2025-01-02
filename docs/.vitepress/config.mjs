@@ -3,8 +3,9 @@ import { defineConfig } from 'vitepress'
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
   base: '/CSE228A-notebook/',
-  title: "Lzzs CSE 228A",
-  description: "A VitePress Site ,for Lzzs CSE228A Notebook",
+  title: "Lzzs CSE228A Notebook",
+  lang: 'zh-CN',
+  description: "CSE 228A课程聚焦于敏捷硬件设计（Agile Hardware Design），旨在教授如何运用敏捷方法应对当代硬件设计中的复杂挑战。敏捷硬件设计技术汲取了软件工程方法的精华，并将其应用于提高硬件设计的生产力。敏捷方法不仅能缩短解决问题的时间，还能产生更适合目标问题的解决方案。在本课程中，我们将介绍这些技术，同时利用 Chisel 硬件设计语言的优势，将面向对象功能编程的优势引入硬件设计。",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     lastUpdated: {

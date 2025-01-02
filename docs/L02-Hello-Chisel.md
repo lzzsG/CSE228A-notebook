@@ -1,3 +1,7 @@
+---
+description: 在敏捷硬件设计中， Scala 语言和 Chisel 框架是实现高效硬件生成器开发的关键工具。本次内容旨在介绍Scala语言的特点、选择它的理由，以及其执行机制。同时，结合Chisel简要展示其如何支持硬件模块的构建与测试，实践“闭环设计（Close the Loop）”理念。
+---
+
 
 # Scala语言与Chisel简介
 
