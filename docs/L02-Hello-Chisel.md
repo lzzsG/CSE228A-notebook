@@ -583,14 +583,6 @@ printVerilog(new MyXOR)
   endmodule
   ```
 
-**模块可视化**
-
-使用以下代码将模块设计进行可视化：
-
-```scala
-visualize(() => new MyXOR)
-```
-
 - 作用：
 
   - 将硬件模块的结构图形化呈现。
